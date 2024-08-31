@@ -9,7 +9,7 @@
 
 
 
-[//]: #- 🔭 I’m currently working on my [Blog]()
+[//]: # (- 🔭 I’m currently working on my [Blog]())
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Roman/Algorithms)
 - ✉️ Best Medium to contact me is via [mail](h3raDoreNa-Programmer@yandex.ru)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
