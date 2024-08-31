@@ -3,12 +3,11 @@
 
 
 
-<img src="src/imgA.jpg"  alt="Hello, World!" height="200" width="300"/>
+## Hello World!
 </p>
 
 
 ---
-<p align="left"> <img src="" /> </p>
 
 # Hi there 🙃 , I'm prnDmn1 aka Roman
 
