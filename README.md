@@ -3,14 +3,14 @@
 
 
 
-<img src="src/imgA.jpg"  alt="Hello, Jollu" height="200" width="300"/>
+<img src="src/imgA.jpg"  alt="Hello, World!" height="200" width="300"/>
 </p>
 
 
 ---
 <p align="left"> <img src="" /> </p>
 
-# Hi there <img align="center" width="35"> , I'm prnDmn1 aka Roman
+# Hi there 🙃 , I'm prnDmn1 aka Roman
 
 
 
