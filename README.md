@@ -10,7 +10,7 @@
 
 
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/prnDmn1/Algorithms)
-- ✉️ Best Medium to contact me is via [mail](h3raDoreNa-Programmer@yandex.ru)
+- ✉️ Best Medium to contact me is via [mail](mailto:h3raDoreNa-Programmer@yandex.ru)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - ⚡ Fun fact: I like scoping out other people's ideas
 - If you have any questions, please [telegram](https://t.me/h3raDoreNa)
