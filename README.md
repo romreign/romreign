@@ -5,7 +5,7 @@
 
 ---
 
-# Hi there 🙃 , I'm prnDmn1 aka Roman
+# Hi there 🙃 , I'm prnDmn1 aka Roman Kurgannikov
 
 
 
