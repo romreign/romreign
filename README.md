@@ -10,7 +10,7 @@
 
 
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/prnDmn1/Algorithms)
-- ✉️ Best Medium to contact me is via [mail](mailto:h3raDoreNa-Programmer@yandex.ru)
+- ✉️ Best Medium to contact me is via [mail](mailto:prnDmn1@yandex.ru)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - If you have any questions, please [telegram](https://t.me/h3raDoreNa)
 
@@ -88,6 +88,6 @@ metric of which languages I have the most code on GitHub
  ----
 
  ----
-<a href= mailto:h3raDoreNa-Programmer@yandex.ru>
+<a href= mailto:prnDmn1@yandex.ru>
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
 </a>
