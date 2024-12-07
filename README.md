@@ -5,7 +5,7 @@
 
 ---
 
-# Hi there 🙃 , I'm prnDmn1 aka Roman Kurgannikov
+# Hi there 🙃 , I'm romreign aka Roman Kurgannikov
 
 
 
@@ -73,7 +73,7 @@ Text Editor/Ide
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <br />
 <!-- | -->
- <a href="https://github.com/prnDmn1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prnDmn1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnDmn1&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/romreign/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=romreign&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romreign&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--  | -->
 <!-- | ------------- | ------------- | -->
 
