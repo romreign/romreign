@@ -70,22 +70,13 @@ Text Editor/Ide
 
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <br />
-<!-- | -->
+
  <a href="https://github.com/romreign/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=romreign&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romreign&layout=compact&theme=buefy&hide_border=true" /></a> 
-<!--  | -->
-<!-- | ------------- | ------------- | -->
+
 
 [//]: # (</a>)
 
 </p>
-
-**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a GitHub
-metric of which languages I have the most code on GitHub
 </details>
 
- ----
 
- ----
-<a href= mailto:mailto:kurgannikov.r@yandex.ru>
-<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
-</a>
