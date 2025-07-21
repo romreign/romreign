@@ -8,8 +8,6 @@
 # Hi there 🙃 , I'm romreign aka Roman Kurgannikov
 
 
-
-- ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/prnDmn1/Algorithms)
 - ✉️ Best Medium to contact me is via [mail](mailto:rkurgannikov1cpp@gmail.com)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - If you have any questions, please [telegram](https://t.me/h3raDoreNa)
