@@ -39,7 +39,7 @@ Documentation:
 Debugging
 
 [![JDB](https://img.shields.io/badge/JDB-%23007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdb.html)
-[![gdb](./src/badges/gdb_shield.svg)](https://www.sourceware.org/gdb/)
+[![GDB](https://img.shields.io/badge/GDB-%23A42E2B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/gdb/)
 
 
 Version Control
