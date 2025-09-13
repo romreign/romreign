@@ -10,7 +10,7 @@
 
 - ✉️ Best Medium to contact me is via [mail](mailto:kurgannikov.r@yandex.ru)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
-- If you have any questions, please [telegram](https://t.me/h3raDoreNa)
+- If you have any questions, please [telegram](https://t.me/romreign)
 
 ---
 
